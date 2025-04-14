@@ -28,11 +28,10 @@ The project uses modern web technologies to ensure scalability and a smooth user
 - **HTML** for structure.
 - **Node.js** for back-end support (if needed).
 
-## Author
-
-**Martin**  
+## Author : **Martin**  
 - **Email**: martinmartin89@rosslistens.one
-- **Website**: 
+- **Website**: Pike Pass
+
 I am a highly skilled software developer with a passion for coding and solving complex problems. With over 10 years of experience in web development, I have mastered various technologies such as React, Node.js, and front-end/back-end integration. I love to help other developers and contribute to open-source projects. My focus is on creating user-friendly and scalable applications that deliver real value.
 
 
